@@ -1,4 +1,0 @@
-include:
-  - project: 'OPS/gitlab-ci-scripts-library'
-    file: 'build-node-package.gitlab-ci.yml'
-    ref: master
